@@ -2,6 +2,7 @@
 
 @section('title', $user->name)
 
+
 @section('content')
     @include('nav')
     <div class="container">
